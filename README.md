@@ -97,3 +97,10 @@ Persistent MySQL storage with Docker volumes
 Environment‑driven configuration (MYSQL_HOST, MYSQL_PORT, etc.)
 
 AI‑powered transaction assistant with Ollama integrated directly into backend
+
+
+
+📌 How to Showcase on CV
+You can describe this project as:
+
+“Developed a containerized Spring Boot banking application with MySQL using Docker Compose. Integrated Ollama LLM chat model directly into the backend to provide AI‑powered transaction intelligence, enabling natural language queries for balances, transaction origins, and transfers. Implemented health checks, persistent volumes, and environment‑based configuration for reliable orchestration.”
